@@ -1,0 +1,23 @@
+{
+  "name": "kiyoh-widget",
+  "version": "0.0.1",
+  "authors": [
+    "Tim Neutkens <tim@timneutkens.nl>"
+  ],
+  "description": "Kiyoh widget custom element",
+  "main": "kiyoh-widget.html",
+  "keywords": [
+    "customelements",
+    "kiyoh",
+    "widget"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.timneutkens.nl",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

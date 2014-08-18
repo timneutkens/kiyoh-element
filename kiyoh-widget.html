@@ -1,0 +1,20 @@
+<link rel="import" href="../bower_components/polymer/polymer.html">
+
+<polymer-element name="kiyoh-widget" attributes="companyid width height ">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+      iframe {
+        border:0;
+        overflow:hidden;
+      }
+    </style>
+    <iframe src="https://www.kiyoh.nl/widget.php?company={{ companyid }}" width="{{ width }}" height="{{ height }}"></iframe>
+  </template>
+  <script>
+    Polymer({
+    });
+  </script>
+</polymer-element>
