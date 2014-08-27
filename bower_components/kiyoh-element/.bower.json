@@ -1,6 +1,5 @@
 {
-  "name": "kiyoh-element",
-  "version": "0.0.1",
+  "name": "kiyoh-widget",
   "authors": [
     "Tim Neutkens <tim@timneutkens.nl>"
   ],
@@ -20,5 +19,15 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "_release": "563de983dd",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "563de983dd2ab5b1d1d4a83f778b8c1e2f01285b"
+  },
+  "_source": "git://github.com/timneutkens1/kiyoh-element.git",
+  "_target": "*",
+  "_originalSource": "kiyoh-element",
+  "_direct": true
 }
